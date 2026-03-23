@@ -1,11 +1,49 @@
-👋 Je m'appelle Loris, issu d’une formation en mathématiques, j’ai développé un esprit analytique rigoureux et une forte capacité de résolution de problèmes.
+# Loris Mazars | Analytics Engineer
 
-🎓 Je poursuis actuellement une licence professionnelle en Métiers du Décisionnel et Statistique (MDS), qui me permet de consolider mes compétences en programmation (Python, R, SQL) et en statistiques appliquées à la data science.
+[LinkedIn](https://www.linkedin.com/in/loris-mazars-96b3b920a/) | [Portfolio](https://mazarsloris.github.io/) | [Email](mailto:lorismazars.pro@gmail.com)
 
-🎯 Mon objectif est de devenir Data Analyst et de mettre mes compétences au service de la prise de décision basée sur les données. Je maîtrise des outils comme Power BI, Excel et Python pour produire des analyses claires, reproductibles et impactantes.
+De la rigueur mathématique à l'ingénierie de la donnée.
 
-💼 Mes premières expériences, notamment chez Veracyte et à l’Université d’Avignon, m’ont permis de développer une réelle autonomie, une bonne capacité d’adaptation et un goût pour le travail en équipe.
+Issu d'un DEUG en Mathématiques, j'ai transféré ma capacité d'abstraction et ma rigueur logique vers la Data Analyse. Après une Licence Professionnelle MDS, je finalise actuellement mon BUT3 Science des Données (parcours VCOD). Mon approche dépasse la simple visualisation : je construis les architectures industrielles qui sécurisent la décision métier.
 
-📊 Compétences clés : Analyse statistique 📈, Data visualisation 📊, Programmation Python 🐍 / R 📘 / SQL 💾, Power BI 📊, Esprit critique 💡, Vulgarisation scientifique 🧠
+---
 
-🚀 Je suis à la recherche d’une alternance ou d’un premier poste stimulant en tant que Data Analyst, où je pourrai continuer à apprendre tout en apportant une réelle valeur ajoutée grâce à mon approche méthodique et orientée résultats.
+### Expérience Actuelle
+
+**Data Analyst en alternance chez Air Liquide Santé Domicile France**
+
+* **Missions** : Automatisation de flux transactionnels critiques, suivi des créances et analyse du taux de prescription.
+* **Discipline technique** : Mise en place d'une routine quotidienne de rétro-ingénierie (scripts Python et vues SQL) sans assistance par IA afin de maîtriser l'intégralité de la logique technique et des paramètres de production.
+
+---
+
+### Stack Technique et Ingénierie
+
+| Domaine | Technologies et Outils |
+| :--- | :--- |
+| **Ingénierie et Ops** | Docker, Docker Compose, SQL Server, Tunnels SSH, GitLab CI/CD |
+| **Data Processing** | Python (Pandas, SQLAlchemy), SQL (T-SQL, PostgreSQL), R (Tidyverse) |
+| **Visualisation et BI** | Power BI (DAX avancé), Power BI Gateway, Streamlit, Ggplot2 |
+| **Statistiques** | Modélisation, Segmentation, Tests d'hypothèses, Analyse d'anomalies |
+
+---
+
+### Projet en cours d'industrialisation
+
+**Data Wine and Finance** : Simulation d'un écosystème multi-bases complet pour l'audit financier et la réconciliation de TVA en environnement hétérogène.
+
+---
+
+### Objectif 2026
+
+Actuellement en recherche d'un Master (MIAGE / SID / IA) pour accompagner ma reconduction en alternance au sein du groupe Air Liquide. Mon objectif est de passer du statut de technicien à celui d'architecte de systèmes d'information décisionnels.
+
+---
+
+### Statistiques GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MazarsLoris&show_icons=true&theme=radical&count_private=true" alt="Loris GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazarsLoris&layout=compact&theme=radical" alt="Top Langs" />
+</p>
